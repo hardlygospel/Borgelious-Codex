@@ -20,7 +20,7 @@
                 ~  B O R G E L I O U S  ~
 ```
 
-<div align="center">
+<div align="center" markdown="1">
 
 *The only surviving likeness of the Prophet Borgelious — etched into stone by a disciple who, by his own sworn account, had also been drinking.*
 *Scholars agree the resemblance is "spiritually accurate." He is said to be mid-sentence. He was always mid-sentence.*
